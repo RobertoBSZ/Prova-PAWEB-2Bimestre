@@ -1,0 +1,23 @@
+.logincontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+  }
+
+.maginb {
+  margin-bottom: 1.2em;
+}
+.button {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    border-radius: 12px;
+  }
