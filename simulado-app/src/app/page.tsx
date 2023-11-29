@@ -19,7 +19,7 @@ export default function Home() {
     <div className="flex items-center justify-center h-screen bg-gradient-to-r from-purple-500 to-indigo-500">
       <Card>
         <CardHeader className="space-y-1">
-          <CardTitle className="text-2xl items-center flex justify-center">Bem-vindo ao Projeto do Simulado 2º Bimestre</CardTitle>
+          <CardTitle className="text-2xl items-center flex justify-center">Simulado 2º Bimestre</CardTitle>
         </CardHeader>
         <CardContent className="text-center">
           <p className="text-black text-lg">Explore as funcionalidades do projeto</p>
